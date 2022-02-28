@@ -18,7 +18,7 @@ Welcome to Saniye TOY's profile! <img src="https://media.giphy.com/media/12oufCB
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/saniye-toy/)
 [<img src="https://img.icons8.com/bubbles/50/microsoft-outlook-2019.png"/>](mailto:saniyetoy@outlook.com)
 [<img src="https://img.icons8.com/clouds/50/twitter.png"/>](https://twitter.com/SaniyeToy?t=_2G22DvxJ0sBly5unhsNig&s=08)
-[<img src="https://img.icons8.com/bubbles/50/discord-logo.png"/>](saniyetoy#7077)
+
 
 
 <h2 align="left">My GitHub Stats :bar_chart:</h2>
