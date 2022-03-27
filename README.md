@@ -8,8 +8,6 @@ Welcome to Saniye TOY's profile! <img src="https://media.giphy.com/media/12oufCB
 
 - 💻 I'm iOS Developer
 - 🔭 I’m currently working on mobile apps.
-- 🙏🏻 I'm a student at Patika.Dev Mobven iOS Bootcamp event
-- 🌱 I’m currently learning mobile development.
 - 🥅 2022 Goals: Learn more about Swift and produce more open source projects
 - 💞️ Fun fact: I love to mandala painting and knit
 
