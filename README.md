@@ -7,7 +7,7 @@ Welcome to Saniye TOY's profile! <img src="https://media.giphy.com/media/12oufCB
 <img src="https://img-s2.onedio.com/id-592ef719bc02f3c466676581/rev-0/w-600/h-337/f-gif/s-38c29704952c952a4b0b12bd3f7c3cd08daf5ed0.gif" align="right" width="450" height="200">
 
 - 💻 I'm iOS Developer
-- 🔭 I’m currently working on mobile apps.
+- 🔭 I’m currently working on [Swift Doc.](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 - 🥅 2022 Goals: Learn more about Swift and produce more open source projects
 - 💞️ Fun fact: I love to mandala painting and knit
 
