@@ -1,6 +1,6 @@
 <h3 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Welcome to Saniye TOY's profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+Welcome to Zeynep TOY's profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h3>
 
 ## I'm a Student, Developer, and Learner!!
@@ -13,8 +13,8 @@ Welcome to Saniye TOY's profile! <img src="https://media.giphy.com/media/12oufCB
 
 ## :mailbox: How to reach me :
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:saniyedgsn42@gmail.com)
-[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/saniye-toy/)
-[<img src="https://img.icons8.com/bubbles/50/microsoft-outlook-2019.png"/>](mailto:saniyetoy@outlook.com)
+[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/zeynep-toy/)
+[<img src="https://img.icons8.com/bubbles/50/microsoft-outlook-2019.png"/>](mailto:toyzeynep@outlook.com.tr)
 [<img src="https://user-images.githubusercontent.com/75203610/170255848-f0f8ffcf-cfcf-472f-9024-e85e13dc55f9.png"/>](https://www.hackerrank.com/saniyetoy)
 
 
